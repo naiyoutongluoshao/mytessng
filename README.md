@@ -32,7 +32,8 @@ pip install -r requirements.txt
 ├── TESS_API_EXAMPLE.py        # TESS NG API 官方示例参考
 ├── main.spec                  # PyInstaller 打包配置
 ├── requirements.txt           # Python 依赖
-└── 机动车交叉口.tess           # 示例路网文件（机动车交叉口场景）
+├── 机动车交叉口.tess           # 示例路网文件（机动车交叉口场景）
+└── 步骤.docx                   # 项目操作步骤说明文档
 ```
 
 ## 运行方式
