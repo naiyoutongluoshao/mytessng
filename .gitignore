@@ -1,0 +1,41 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+packages/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# 构建产物
+build/
+dist/
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 仿真输出与日志（数据量大，不纳入版本控制）
+SimuResult/
+Log/
+*.log
+
+# 授权证书 / 密钥（切勿上传）
+Cert/
+*cert*
+*key*
+*.pem
+
+# 备份
+Backup/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
